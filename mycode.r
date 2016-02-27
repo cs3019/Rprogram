@@ -6,7 +6,7 @@ second <- function(x){
 
 	x + rnorm(length(x))
 	}
-third <- function(y){
+forth <- function(y){
 
 	y + rnorm(length(y))
 	}
